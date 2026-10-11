@@ -13,7 +13,9 @@
 * 1x Pro micro
 * 1x ec11 rotary encoder
 * 1x reset switch (smd, 4 pin, flat)
-* 12 1N4148 Switches (smd or through hole)
-* 12 any(i think) 5 pin mx switches
+* 12x 1N4148 Switches (smd or through hole)
+* 12x any(i think) 5 pin mx switches
+* 4x M2 x 3mm L x 3.2mm threaded brass inserts
+* 4x M2 Laptop style flathead screw
 ## Firmware
 (to be added)
