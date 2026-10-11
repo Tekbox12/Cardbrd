@@ -1,5 +1,5 @@
 
-# CardBrd12
+# CardBrd
 
 12 key macro pad built using ergogen v4
 
