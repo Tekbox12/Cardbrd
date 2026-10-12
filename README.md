@@ -5,7 +5,7 @@
 
 ## Features
 
-- 12 keys (4 rows 3 columns
+- 12 keys (4 rows 3 columns)
 - rotary encoder with click
 - reset button
 
