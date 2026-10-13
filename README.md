@@ -5,6 +5,7 @@
 
 ## Features
 
+- QMK and VIA support
 - 12 keys (4 rows 3 columns)
 - rotary encoder with click
 - reset button
@@ -18,4 +19,5 @@
 * 4x M2 x 3mm L x 3.2mm threaded brass inserts
 * 4x M2 Laptop style flathead screw
 ## Firmware
-(to be added)
+My QMK fork (https://github.com/Tekbox12/qmk_firmware/tree/dev_branch/keyboards/cardbrd)
+(other files)
