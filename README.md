@@ -19,5 +19,5 @@
 * 4x M2 x 3mm L x 3.2mm threaded brass inserts
 * 4x M2 Laptop style flathead screw
 ## Firmware
-My QMK fork (https://github.com/Tekbox12/qmk_firmware/tree/dev_branch/keyboards/cardbrd)
-(other files)
+[My QMK fork](https://github.com/Tekbox12/qmk_firmware/tree/dev_branch/keyboards/cardbrd)
+OR Use the qmk files in the qmk folder
